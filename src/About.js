@@ -12,7 +12,7 @@ import {
 const About = () => {
     return (
         <div>
-            <Grid templateColumns={'repeat(auto-fit,minmax(300px,1fr))'} width={"100%"} minHeight={'100vh'}  px={"9%"} py={"9%"} gap={"4rem"} >
+            <Grid templateColumns={'repeat(auto-fit,minmax(300px,1fr))'} width={"100%"} height={'100%'}  px={"9%"} py={"9%"} gap={"4rem"} >
                 <Box flex={"100%"}>
                       <Image src={image} mr={2}></Image>
 
