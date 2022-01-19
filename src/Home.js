@@ -5,7 +5,11 @@ import image from './image.svg'
 const Home = () => {
     return (
         <div>
+<<<<<<< HEAD
             <Grid templateColumns={'repeat(auto-fit , minmax(300px , 1fr))'} alignItems={"center"} width={"100%"} height={'100%'}   px={"9%"}  py={"9%"} gap={"2rem"} >
+=======
+            <Grid templateColumns={'repeat(auto-fit , minmax(300px , 1fr))'} width={"100%"} height={'100%'}   px={"9%"}  py={"9%"} gap={"2rem"} >
+>>>>>>> 6c97a045395070982250b48215b4dad8aabb7e78
                 <Box>
                     <Heading mb={"2.5"} fontWeight={"semibold"} textTransform={"capitalize"}>world's largest coding communitiy is here !</Heading>
                     <Text mb={"2.5"} >Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum ipsum distinctio doloribus, a dignissimos optio soluta quod alias error aliquam?</Text>
