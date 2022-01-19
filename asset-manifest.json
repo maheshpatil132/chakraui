@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/chakraui/static/css/main.31d6cfe0.css",
+    "main.js": "/chakraui/static/js/main.143372a2.js",
+    "static/js/787.4246add4.chunk.js": "/chakraui/static/js/787.4246add4.chunk.js",
+    "static/media/image2.svg": "/chakraui/static/media/image2.13069cd8d325dd4371cc2fbfad8c526c.svg",
+    "static/media/image3.svg": "/chakraui/static/media/image3.4047f16cb75b2698a953eaf1d37f026c.svg",
+    "static/media/image.svg": "/chakraui/static/media/image.30ec3051d5ee9893e9b190e331aad8d3.svg",
+    "index.html": "/chakraui/index.html",
+    "main.143372a2.js.map": "/chakraui/static/js/main.143372a2.js.map",
+    "787.4246add4.chunk.js.map": "/chakraui/static/js/787.4246add4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.143372a2.js"
+  ]
+}
