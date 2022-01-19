@@ -9,7 +9,7 @@ import Review from './Review';
 const Service = () => {
     return (
         <div>
-            <Flex width={"100%"} direction={'column'} minHeight={'100vh'} backgroundColor={'blackAlpha.100'} px={"9%"} py={"5%"} gap={"4rem"} borderBottom={"1px solid"}>
+            <Flex width={"100%"} direction={'column'} height={'100%'} backgroundColor={'blackAlpha.100'} px={"9%"} py={"5%"} gap={"4rem"} borderBottom={"1px solid"}>
                 <Box flex={"100%"}>
                     <Heading textAlign={"center"} fontWeight={"semibold"} fontSize={'40px'} mb={'6%'} >why you should join us ?</Heading>
                     <Grid width={'100%'} templateColumns='repeat(auto-fit, minmax(200px,1fr))' placeItems={"center"} gap={2}>
